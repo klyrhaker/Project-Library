@@ -32,6 +32,7 @@ form.addEventListener("submit", function (e) {
   const read = elements.read.checked;
 
   addBookToLibrary(title, author, pages, read);
+  form.reset();
   dialog.close();
 });
 
