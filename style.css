@@ -1,12 +1,12 @@
 body {
   min-height: 100vh;
-  background-image: url(/HP.jpg);
+  background-image: url(HP.jpg);
   background-repeat: no-repeat;
   background-position: center;
   background-size: contain;
 }
 #open {
-  font-size: 1.3rem;
+  font-size: 1.4rem;
   color: rgb(148, 79, 79);
   text-shadow: 2px 1px 1px rgb(255, 255, 255);
   height: 4rem;
